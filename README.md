@@ -4,6 +4,9 @@ a simple CLI program for qBittorrent editing u2 tracker url, so you can update U
 ## Login
 Enter empty username and password if your IP whitelisted by qBittorrent.
 
+## Passkey
+[Find your passkey here first](https://u2.dmhy.org/usercp.php)
+
 ## Torrent update log
 What? Of coz NO. Why need log? is it really necessary?
 I don't fucking care :)
